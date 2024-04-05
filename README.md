@@ -14,3 +14,6 @@ $ npx zenn new:book
 $ npx zenn preview
 
 ```
+
+### Zennプロフィール
+https://zenn.dev/kuuumo
