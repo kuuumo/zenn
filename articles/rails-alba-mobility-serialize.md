@@ -3,7 +3,7 @@ title: "[Rails] AlbaとMobilityを利用してモデルの属性を多言語対�
 emoji: "🌎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Rails, Alba, Mobility, i18n, Serialize]
-published: false
+published: true
 ---
 
 ## はじめに
